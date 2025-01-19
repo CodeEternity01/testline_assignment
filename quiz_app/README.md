@@ -16,19 +16,19 @@ An interactive and gamified quiz application built using Flutter, designed for e
 ## Screenshots 🖼️
 
 ### 1. Home Screen  
-![Home Screen](assets/images/home.jpeg)  
+<img src="assets/images/home.jpeg" alt="Home Screen" width="300">  
 
 ### 2. Quiz Screen  
-![Quiz Screen](assets/images/quiz.jpeg)  
+<img src="assets/images/quiz.jpeg" alt="Quiz Screen" width="300">  
 
 ### 3. Result Screen  
-![Result Screen](assets/images/result.jpeg)  
+<img src="assets/images/result.jpeg" alt="Result Screen" width="300">  
 
 ---
 
 ## Installation 📥
 
-To run this application locally:  
+To run this application locally:
 
 1. **Clone the repository:**  
    ```bash
@@ -36,15 +36,13 @@ To run this application locally:
    cd testline_assignment/quiz_app
 Install dependencies:
 
-bash
-Copy
-Edit
+BASH
+
 flutter pub get
 Run the app:
 
-bash
-Copy
-Edit
+BASH
+
 flutter run
 Demo 🎥
 Watch the demo video: Click Here
@@ -57,9 +55,7 @@ Requirements 🧩
 Flutter SDK v3.0.0 or above
 Dart SDK v2.17.0 or above
 Folder Structure 📂
-plaintext
-Copy
-Edit
+
 quiz_app/
 │
 ├── assets/                  # Static assets
@@ -83,6 +79,4 @@ Author 👤
 Rahul Meena
 
 GitHub: CodeEternity01
-LinkedIn: inkedin.com/in/rahul-meena-2a3a0b277/
-
-> Replace `<https://drive.google.com/file/d/1EW67u8M9ak302htuYRNT8tki_YeFrtme/view?usp=drivesdk>` with the actual link to your demo video.
+LinkedIn: Rahul Meena
